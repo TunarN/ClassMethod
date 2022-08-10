@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\ClassMetod\ClassMetod\bin\Debug\netcoreapp3.1\ClassMetod.exe
+C:\Users\lenovo\source\repos\ClassMetod\ClassMetod\bin\Debug\netcoreapp3.1\ClassMetod.deps.json
+C:\Users\lenovo\source\repos\ClassMetod\ClassMetod\bin\Debug\netcoreapp3.1\ClassMetod.runtimeconfig.json
+C:\Users\lenovo\source\repos\ClassMetod\ClassMetod\bin\Debug\netcoreapp3.1\ClassMetod.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\ClassMetod\ClassMetod\bin\Debug\netcoreapp3.1\ClassMetod.dll
+C:\Users\lenovo\source\repos\ClassMetod\ClassMetod\bin\Debug\netcoreapp3.1\ClassMetod.pdb
+C:\Users\lenovo\source\repos\ClassMetod\ClassMetod\obj\Debug\netcoreapp3.1\ClassMetod.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ClassMetod\ClassMetod\obj\Debug\netcoreapp3.1\ClassMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\ClassMetod\ClassMetod\obj\Debug\netcoreapp3.1\ClassMetod.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\ClassMetod\ClassMetod\obj\Debug\netcoreapp3.1\ClassMetod.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\ClassMetod\ClassMetod\obj\Debug\netcoreapp3.1\ClassMetod.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ClassMetod\ClassMetod\obj\Debug\netcoreapp3.1\ClassMetod.dll
+C:\Users\lenovo\source\repos\ClassMetod\ClassMetod\obj\Debug\netcoreapp3.1\ClassMetod.pdb
+C:\Users\lenovo\source\repos\ClassMetod\ClassMetod\obj\Debug\netcoreapp3.1\ClassMetod.genruntimeconfig.cache
